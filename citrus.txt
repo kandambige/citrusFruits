@@ -1,3 +1,5 @@
 Oranges are orange.
 Lemons are yellow.
 Limes are green.
+Strawberries are red.
+Blueberries are blue.
